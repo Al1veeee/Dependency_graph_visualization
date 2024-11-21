@@ -107,7 +107,7 @@ python dependency_visualizer.py --graphviz_path "C:\Program Files\Graphviz\bin" 
 
 **Содержимое** ```output_graph.png```:
 
-![image](https://github.com/user-attachments/assets/7918ba6e-1fe7-47b8-a428-1714f46bf3f4)
+![image](https://github.com/user-attachments/assets/25def5f4-38d0-4832-a8b9-a2eee2d749a2)
 
 
 ## **Тесты визуализатора зависимостей** ```test_dependency_visualizer.py```
